@@ -8,7 +8,6 @@
 <!--
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,html,md,nodejs,java,javascript,cuda" />
 -->
-<br>
 
 <!--
 **GFDSA030/GFDSA030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
