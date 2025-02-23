@@ -1,13 +1,14 @@
-## Hi there 👋
-<p align="left"> 
+<h2> Hi there 👋</h2>
+<p align="center"> 
+  <img alt="Profile Details" height="150px" src="http://github-profile-summary-cards-nu.vercel.app/api/cards/profile-details?username=gfdsa030&theme=dark" />
+  <br>
+  <img alt="Productive Time" height="150px" src="http://github-profile-summary-cards-nu.vercel.app/api/cards/productive-time?username=gfdsa030&theme=dark&utcOffset=8" />
+<p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-coral-nine-40.vercel.app/api/top-langs/?username=GFDSA030&layout=compact&theme=dark&show_icons=true&count_private=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-coral-nine-40.vercel.app/api?username=GFDSA030&theme=dark&show_icons=true&count_private=true" />
 </p>
 <br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,arduino,raspberrypi,windows,linux,github" />
-<!--
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,html,md,nodejs,java,javascript,cuda" />
--->
 
 <!--
 **GFDSA030/GFDSA030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
