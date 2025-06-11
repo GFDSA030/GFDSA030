@@ -1,7 +1,7 @@
 <html>
   <body>
     <h2>Hi there 👋</h2>
-    組み込み、ネットワーク、OSベアメタル、、、etc
+    組み込み、ネットワーク、OSベアメタル、、、etc</br></br>
     <p align="left">
       <img
         alt="github stats"
